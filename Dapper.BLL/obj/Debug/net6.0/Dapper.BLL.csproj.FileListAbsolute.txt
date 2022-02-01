@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Dapper.API\Dapper.BLL\bin\Debug\net6.0\Dapper.BLL.deps.json
+C:\Users\User\source\repos\Dapper.API\Dapper.BLL\bin\Debug\net6.0\Dapper.BLL.dll
+C:\Users\User\source\repos\Dapper.API\Dapper.BLL\bin\Debug\net6.0\ref\Dapper.BLL.dll
+C:\Users\User\source\repos\Dapper.API\Dapper.BLL\bin\Debug\net6.0\Dapper.BLL.pdb
+C:\Users\User\source\repos\Dapper.API\Dapper.BLL\obj\Debug\net6.0\Dapper.BLL.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Dapper.API\Dapper.BLL\obj\Debug\net6.0\Dapper.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Dapper.API\Dapper.BLL\obj\Debug\net6.0\Dapper.BLL.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Dapper.API\Dapper.BLL\obj\Debug\net6.0\Dapper.BLL.AssemblyInfo.cs
+C:\Users\User\source\repos\Dapper.API\Dapper.BLL\obj\Debug\net6.0\Dapper.BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Dapper.API\Dapper.BLL\obj\Debug\net6.0\Dapper.BLL.dll
+C:\Users\User\source\repos\Dapper.API\Dapper.BLL\obj\Debug\net6.0\ref\Dapper.BLL.dll
+C:\Users\User\source\repos\Dapper.API\Dapper.BLL\obj\Debug\net6.0\Dapper.BLL.pdb

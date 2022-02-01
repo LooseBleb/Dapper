@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Dapper.API\Dapper.DAO\obj\Debug\net6.0\Dapper.DAO.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Dapper.API\Dapper.DAO\obj\Debug\net6.0\Dapper.DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Dapper.API\Dapper.DAO\obj\Debug\net6.0\Dapper.DAO.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Dapper.API\Dapper.DAO\obj\Debug\net6.0\Dapper.DAO.AssemblyInfo.cs
+C:\Users\User\source\repos\Dapper.API\Dapper.DAO\obj\Debug\net6.0\Dapper.DAO.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Dapper.API\Dapper.DAO\bin\Debug\net6.0\Dapper.DAO.deps.json
+C:\Users\User\source\repos\Dapper.API\Dapper.DAO\bin\Debug\net6.0\Dapper.DAO.dll
+C:\Users\User\source\repos\Dapper.API\Dapper.DAO\bin\Debug\net6.0\ref\Dapper.DAO.dll
+C:\Users\User\source\repos\Dapper.API\Dapper.DAO\bin\Debug\net6.0\Dapper.DAO.pdb
+C:\Users\User\source\repos\Dapper.API\Dapper.DAO\bin\Debug\net6.0\Dapper.BLL.dll
+C:\Users\User\source\repos\Dapper.API\Dapper.DAO\bin\Debug\net6.0\Dapper.BLL.pdb
+C:\Users\User\source\repos\Dapper.API\Dapper.DAO\obj\Debug\net6.0\Dapper.DAO.csproj.CopyComplete
+C:\Users\User\source\repos\Dapper.API\Dapper.DAO\obj\Debug\net6.0\Dapper.DAO.dll
+C:\Users\User\source\repos\Dapper.API\Dapper.DAO\obj\Debug\net6.0\ref\Dapper.DAO.dll
+C:\Users\User\source\repos\Dapper.API\Dapper.DAO\obj\Debug\net6.0\Dapper.DAO.pdb

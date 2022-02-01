@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d1625d3d-fb87-4573-95f3-233809ebc6ab": {
+      "ProjectGuid": "d1625d3d-fb87-4573-95f3-233809ebc6ab",
+      "DisplayName": "Dapper.API",
+      "ColorIndex": 0
+    },
+    "765d3d97-9055-4021-b05c-f844ac3a90c1": {
+      "ProjectGuid": "765d3d97-9055-4021-b05c-f844ac3a90c1",
+      "DisplayName": "Dapper.DAO",
+      "ColorIndex": 1
+    },
+    "b0212859-3f13-4765-93eb-2e016f0863ba": {
+      "ProjectGuid": "b0212859-3f13-4765-93eb-2e016f0863ba",
+      "DisplayName": "Dapper.BLL",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

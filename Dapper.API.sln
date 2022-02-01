@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dapper.API", "Dapper.API\Dapper.API.csproj", "{D1625D3D-FB87-4573-95F3-233809EBC6AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dapper.DAO", "Dapper.DAO\Dapper.DAO.csproj", "{765D3D97-9055-4021-B05C-F844AC3A90C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dapper.BLL", "Dapper.BLL\Dapper.BLL.csproj", "{B0212859-3F13-4765-93EB-2E016F0863BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1625D3D-FB87-4573-95F3-233809EBC6AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1625D3D-FB87-4573-95F3-233809EBC6AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1625D3D-FB87-4573-95F3-233809EBC6AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1625D3D-FB87-4573-95F3-233809EBC6AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{765D3D97-9055-4021-B05C-F844AC3A90C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{765D3D97-9055-4021-B05C-F844AC3A90C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{765D3D97-9055-4021-B05C-F844AC3A90C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{765D3D97-9055-4021-B05C-F844AC3A90C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0212859-3F13-4765-93EB-2E016F0863BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0212859-3F13-4765-93EB-2E016F0863BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0212859-3F13-4765-93EB-2E016F0863BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0212859-3F13-4765-93EB-2E016F0863BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8DD558E-D592-447A-8E38-3E4D3732DBC1}
+	EndGlobalSection
+EndGlobal
